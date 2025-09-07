@@ -37,6 +37,6 @@ Em um futuro próximo pretendo adicionar upgrades como:
 
 . Testes Automatizados
 
-Desenvolvido por:
 
+Desenvolvido por:
 Henrique Barcelos
