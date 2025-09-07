@@ -1,24 +1,37 @@
-Calculadora inteligente em python
-Meu primeiro projeto em python. Um projeto simples porém funcional onde eu coloquei em prática o pouco q eu já aprendi
-Esse reposiório servirá para eu me lembrar do meu começo na programação
+🧮 Calculadora Inteligente em Python
 
-O que a calculadora faz:
+Este é o meu **primeiro projeto em Python**, criado como parte do meu aprendizado inicial.  
+É uma calculadora que funciona no **terminal (CLI)**, feita para treinar:
 
-Faz automaticamente todas as seguintes operações de uma só vez:
-- SOMA
-- SUBTRAÇÃO
-- MULTIPLICAÇÃO
-- DIVISÃO
-- POTÊNCIA AO QUADRADO DOS DOIS NÚMERO
-- RAIZ QUADRADA DOS DOIS NÚMEROS
-- PORCENTAGEM
+- Funções com parâmetros e return
+- Tratamento de erros  
+- Formatação de strings  
+- Condicionais (if/else)  
+- Laços de repetição (while)  
 
-#Aprendizados
-Nesse projeto ultilizei conhecimento de:
-- FUNÇÕES COM PARAMÊTROS E RETURN
-- TRATAMENTO DE ERROS
-- FORMATAÇÃO DE STRINGS
-- CONDICIONAIS
+✨ Funcionalidades
+A calculadora faz automaticamente as seguintes operações:
 
-DESENVOLVIDO POR
+- ➕ Soma  
+- ➖ Subtração  
+- ✖️ Multiplicação  
+- ➗ Divisão (com verificação de divisão por zero)    
+- 🟰 Potência ao quadrado dos dois números  
+- 📐 Raiz quadrada dos dois números  
+- 📊 Porcentagem  
+
+🚀 Como executar
+Clone o repositório e rode o arquivo smartcalc.py:
+
+bash
+git clone https://github.com/WKYBarcelos/SMART_CALCULATOR.PY.git
+cd SMART_CALCULATOR.PY
+python smartcalc.py
+
+Em um futuro próximo pretendo adicionar upgrades como:
+. Histórico de operações
+. Interface gráfica com PyQt5
+. Testes Automatizados
+
+Desenvolvido por:
 Henrique Barcelos
