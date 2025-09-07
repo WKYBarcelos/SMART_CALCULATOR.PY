@@ -10,6 +10,7 @@ Este é o meu **primeiro projeto em Python**, criado como parte do meu aprendiza
 - Laços de repetição (while)  
 
 ✨ Funcionalidades
+
 A calculadora faz automaticamente as seguintes operações:
 
 - ➕ Soma  
@@ -29,9 +30,11 @@ cd SMART_CALCULATOR.PY
 python smartcalc.py
 
 Em um futuro próximo pretendo adicionar upgrades como:
+
 . Histórico de operações
 . Interface gráfica com PyQt5
 . Testes Automatizados
 
 Desenvolvido por:
+
 Henrique Barcelos
