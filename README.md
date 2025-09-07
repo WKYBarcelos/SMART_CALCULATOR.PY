@@ -32,7 +32,9 @@ python smartcalc.py
 Em um futuro próximo pretendo adicionar upgrades como:
 
 . Histórico de operações
+
 . Interface gráfica com PyQt5
+
 . Testes Automatizados
 
 Desenvolvido por:
